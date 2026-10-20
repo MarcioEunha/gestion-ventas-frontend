@@ -20,4 +20,4 @@ Aplicación React para la gestión de artículos y ventas.
 4. Abrir: `http://localhost:5173`
 
 ## Backend
-Este proyecto se conecta con un backend en Node.js/Express/PostgreSQL. Repositorio: []
+Este proyecto se conecta con un backend en Node.js/Express/PostgreSQL. Repositorio: [https://github.com/MarcioEunha/gestion-ventas-backend/tree/main]
